@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Employee Tracking App.
+- 🔭 I’m currently working on Baaten, a chat app.
 - 🌱 I’m currently learning Nodejs
 - 👯 I’m looking to collaborate on YouTube
 - 📫 How to reach me:
