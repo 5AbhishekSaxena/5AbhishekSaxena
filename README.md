@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Baaten, a chat app.
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on YouTube
 - 📫 How to reach me:
 <a href="https://twitter.com/intent/follow?screen_name=abhisheks031&tw_p=followbutton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/abhisheks031?label=%40abhisheks031&style=social"></a> 
