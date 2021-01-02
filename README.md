@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Baaten, a chat app.
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on YouTube
-- 📫 How to reach me:
+- 📫 Let's connect
 <a href="https://twitter.com/intent/follow?screen_name=abhisheks031&tw_p=followbutton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/abhisheks031?label=%40abhisheks031&style=social"></a> 
 <a href="https://www.youtube.com/channel/UC8Gl9fv7A1ipE3EaOMzxCSg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Developing%20Developer--brightgreen?style=social&logo=youtube"></a>
 <a href="https://www.instagram.com/developing.developer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/@developing.developer--brightgreen?style=social&logo=instagram"></a>
