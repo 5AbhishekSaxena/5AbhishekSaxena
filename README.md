@@ -10,9 +10,3 @@
 - ⚡ Fun fact: I can solve Rubik's cube (3x3x3, 2x2x2, 4x4x4) 
 
 <img src="https://github-readme-stats.vercel.app/api?username=5AbhishekSaxena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-
-
-Feeling generous today?
-
-<a href="https://www.buymeacoffee.com/abhisheksaxena" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160"></a>
-
