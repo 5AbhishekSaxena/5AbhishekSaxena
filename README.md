@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software developer and have been coding for close to 5 years now. Currently I am focusing on writing clean code and learning Design Patterns. Few other interesting details about me like 
+I am a software developer and have been coding for close to 5 years now. Currently I am focusing on writing clean code and learning Design Patterns. Few other interesting details about me.... 
 - Frameworks
    - Android
    - Spring Boot
