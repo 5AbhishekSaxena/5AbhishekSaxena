@@ -14,6 +14,9 @@ I am a software developer and have been coding for close to 5 years now. Current
      - <a href="https://twitter.com/intent/follow?screen_name=abhisheks031&tw_p=followbutton" target="_blank" rel="noopener noreferrer">Twitter<a>
      - <a href="https://www.youtube.com/channel/UC8Gl9fv7A1ipE3EaOMzxCSg" target="_blank" rel="noopener noreferrer">Youtube</a>
 - ⚡ Fun fact: I can solve Rubik's cube (3x3x3, 2x2x2, 4x4x4) 
+   
+### Recent Blogs
+   - [Easily manage image type with sealed classes](https://5abhisheksaxena.medium.com/easily-manage-image-type-with-sealed-classes-4e361c6f4db9) (Medium)
      
 Thanks for stopping by and don't forget to checkout my pinned repositories and open sourced projects.
 
