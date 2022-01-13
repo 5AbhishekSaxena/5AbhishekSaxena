@@ -17,7 +17,7 @@ I am a software developer and have been coding for close to 5 years now. Current
    
 ### Recent Blogs
    - [Easily manage image type with sealed classes](https://5abhisheksaxena.medium.com/easily-manage-image-type-with-sealed-classes-4e361c6f4db9) (Medium - gitconnected)
-   - [Conditionals, An Easier Design Decision But A Poor Choice](5abhisheksaxena.medium.com/conditionals-an-easier-design-decision-but-a-poor-choice-16a8d65c9de1) (Medium - ProAndroidDev)
+   - [Conditionals, An Easier Design Decision But A Poor Choice](https://5abhisheksaxena.medium.com/conditionals-an-easier-design-decision-but-a-poor-choice-16a8d65c9de1) (Medium - ProAndroidDev)
      
 Thanks for stopping by and don't forget to checkout my pinned repositories and open sourced projects.
 
