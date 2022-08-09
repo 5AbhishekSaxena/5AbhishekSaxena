@@ -15,9 +15,10 @@ I am a software developer and have been coding for close to 5 years now. Current
      - <a href="https://www.youtube.com/channel/UC8Gl9fv7A1ipE3EaOMzxCSg" target="_blank" rel="noopener noreferrer">Youtube</a>
 - ⚡ Fun fact: I can solve Rubik's cube (3x3x3, 2x2x2, 4x4x4) 
    
-### Recent Blogs
-   - [Easily manage image type with sealed classes](https://5abhisheksaxena.medium.com/easily-manage-image-type-with-sealed-classes-4e361c6f4db9) (Medium - gitconnected)
+### Recent Articles
+   - [Strategy Design Pattern In Kotlin](https://proandroiddev.com/strategy-design-pattern-in-kotlin-afaa5ed90932) (Medium - ProAndroidDev)
    - [Conditionals, An Easier Design Decision But A Poor Choice](https://5abhisheksaxena.medium.com/conditionals-an-easier-design-decision-but-a-poor-choice-16a8d65c9de1) (Medium - ProAndroidDev)
+   - [Easily manage image type with sealed classes](https://5abhisheksaxena.medium.com/easily-manage-image-type-with-sealed-classes-4e361c6f4db9) (Medium - gitconnected)
      
 Thanks for stopping by and don't forget to checkout my pinned repositories and open sourced projects.
 
