@@ -27,9 +27,9 @@ I am a software developer with 2 years of experience. I like to develop applicat
 </p>
 <h1 align="center">🤝🏻 Connect With Me</h1>
 <p align="center">
-<a href="https://www.instagram.com/developing.developer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge"/></a>
+<a href="https://5abhisheksaxena.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/5abhisheksaxena/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/></a>
-<a href="https://twitter.com/intent/follow?screen_name=abhisheks031&tw_p=followbutton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=5abhisheks&tw_p=followbutton" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://www.instagram.com/developing.developer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge"/></a>
 <a href="https://www.youtube.com/channel/UC8Gl9fv7A1ipE3EaOMzxCSg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge"/></a>
 </p>
