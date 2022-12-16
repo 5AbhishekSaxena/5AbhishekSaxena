@@ -1,3 +1,4 @@
+<div align="center"><img src="./assets/banner.png" width="65%"></div>
 <h1 align="center">👋 Hi there I'm Abhishek Saxena</h1>
 
 <p align="center">
