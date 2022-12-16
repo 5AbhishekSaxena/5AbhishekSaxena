@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there I'm Abhishek Saxena</h1>
 
 <p align="center">
-I am a software developer with 2 years of experience. I like to develop applications in public. Currently, I'm learning how to write clean code and implement clean architecture.
+I am a Mobile Full Stack Developer with 2 years of experience. I like to develop applications in public. Currently, I'm learning how to write clean code and implement clean architecture.
 </p>
 
 <h1 align="center">🛠 Frameworks</h1>
