@@ -38,7 +38,7 @@ I am a software developer with 2 years of experience. I like to develop applicat
 <div align="center">
 <a href="https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1">SOLID Design Principles in Kotlin</a>(Medium - ProAndroidDev)
 <br>
-<a href="https://proandroiddev.com/strategy-design-pattern-in-kotlin-afaa5ed90932/solid-design-principles-in-kotlin-79100c670df1">Strategy Design Pattern In Kotlin</a>(Medium - ProAndroidDev)
+<a href="https://proandroiddev.com/strategy-design-pattern-in-kotlin-afaa5ed90932">Strategy Design Pattern In Kotlin</a>(Medium - ProAndroidDev)
 <br>
 <a href="https://5abhisheksaxena.medium.com/conditionals-an-easier-design-decision-but-a-poor-choice-16a8d65c9de1">Conditionals, An Easier Design Decision But A Poor Choice</a>(Medium - ProAndroidDev)
 <br>
