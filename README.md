@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there I'm Abhishek Saxena</h1>
 
 <p align="center">
-I am a Mobile Full Stack Developer with 2 years of experience with experience in Native Android and backend with Spring Boot.
+I am a Mobile Full Stack Developer with 2 years of experience with expertise in Native Android and Spring Boot.
 </p>
 
 <h1 align="center">🛠 Frameworks</h1>
