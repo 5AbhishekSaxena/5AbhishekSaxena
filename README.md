@@ -49,7 +49,10 @@ I am a software developer with 2 years of experience. I like to develop applicat
 
 <h1 align="center">⚙️ GitHub Analytics</h1>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=5AbhishekSaxena&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=151515"/>
+<a href="https://github.com/5AbhishekSaxena">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=5AbhishekSaxena&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=151515"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=5AbhishekSaxena&layout=compact&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=151515"/>
+</a>
 </div>
 
 <br>
