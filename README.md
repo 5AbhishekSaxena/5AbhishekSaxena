@@ -38,6 +38,8 @@ I am a Mobile Full Stack Developer with 2 years of experience with expertise in 
 
 <h1 align="center">📖 Recent Articles</h1>
 <div align="center">
+<a href="https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe">Jetpack Compose Migration: Best Practices and Strategies</a>(Medium - ProAndroidDev)
+<br>
 <a href="https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1">SOLID Design Principles in Kotlin</a>(Medium - ProAndroidDev)
 <br>
 <a href="https://proandroiddev.com/strategy-design-pattern-in-kotlin-afaa5ed90932">Strategy Design Pattern In Kotlin</a>(Medium - ProAndroidDev)
