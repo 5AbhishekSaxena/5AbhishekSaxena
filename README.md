@@ -36,19 +36,43 @@ I am a Mobile Full Stack Developer with 2 years of experience with expertise in 
 <a href="https://www.youtube.com/channel/UC8Gl9fv7A1ipE3EaOMzxCSg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge"/></a>
 </p>
 
-<h1 align="center">📖 Recent Articles</h1>
-<div align="center">
-<a href="https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe">Jetpack Compose Migration: Best Practices and Strategies</a>(Medium - ProAndroidDev)
-<br>
-<a href="https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1">SOLID Design Principles in Kotlin</a>(Medium - ProAndroidDev)
-<br>
-<a href="https://proandroiddev.com/strategy-design-pattern-in-kotlin-afaa5ed90932">Strategy Design Pattern In Kotlin</a>(Medium - ProAndroidDev)
-<br>
-<a href="https://5abhisheksaxena.medium.com/conditionals-an-easier-design-decision-but-a-poor-choice-16a8d65c9de1">Conditionals, An Easier Design Decision But A Poor Choice</a>(Medium - ProAndroidDev)
-<br>
-<a href="https://5abhisheksaxena.medium.com/easily-manage-image-type-with-sealed-classes-4e361c6f4db9">Easily manage image type with sealed classes</a>(Medium - gitconnected)
+<h1 align="center">📖 Recent Articles <a href="https://5abhisheksaxena.medium.com/">(View All)</a></h1>
 
-▶ [... view more](https://5abhisheksaxena.medium.com/)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Published In</th>
+    <th>Featured In</th>
+  </tr>
+  <tr>
+    <td><a href="https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe">Jetpack Compose Migration: Best Practices and Strategies</a></td>
+    <td><a href="https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe"><img src="https://img.shields.io/badge/-ProAndroidDev-%23000000?logo=medium&style=for-the-badge"/></a></td>
+    <td><a href="https://devlibrary.withgoogle.com/authors/abhisheksaxena"><img src="https://img.shields.io/badge/-Dev%20Library-blue?style=for-the-badge&logo=google"/></a> <a href="https://developers.googleblog.com/2023/02/google-dev-library-letters-18th-edition.html"><img src="https://img.shields.io/badge/Dev%20Library%20Letters-Issue%20%2318-blue?style=for-the-badge&logo=google"/></a> <a href="https://androidweekly.net/issues/issue-551"><img src="https://img.shields.io/badge/androidweekly.net-Issue%20%23551-%23129bc9?style=for-the-badge"/></a> <a href="https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=1cea211a6d"><img src="https://img.shields.io/badge/kotlinweekly.net-Issue%20%23336-%237a4fbb?style=for-the-badge"/></a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1">SOLID Design Principles in Kotlin</a></td>
+    <td><a href="https://proandroiddev.com/solid-design-principles-in-kotlin-79100c670df1"><img src="https://img.shields.io/badge/-ProAndroidDev-%23000000?logo=medium&style=for-the-badge"/></a></td>
+    <td><a href="https://devlibrary.withgoogle.com/authors/abhisheksaxena"><img src="https://img.shields.io/badge/-Dev%20Library-blue?style=for-the-badge&logo=google"/></a> <a href="https://androidweekly.net/issues/issue-548"><img src="https://img.shields.io/badge/androidweekly.net-Issue%20%23548-%23129bc9?style=for-the-badge"/></a> <a href="https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=dae9760573"><img src="https://img.shields.io/badge/kotlinweekly.net-Issue%20%23333-%237a4fbb?style=for-the-badge"/></a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://proandroiddev.com/strategy-design-pattern-in-kotlin-afaa5ed90932">Strategy Design Pattern In Kotlin</a></td>
+    <td><a href="https://proandroiddev.com/strategy-design-pattern-in-kotlin-afaa5ed90932"><img src="https://img.shields.io/badge/-ProAndroidDev-%23000000?logo=medium&style=for-the-badge"/></a></td>
+    <td><a href="https://devlibrary.withgoogle.com/authors/abhisheksaxena"><img src="https://img.shields.io/badge/-Dev%20Library-blue?style=for-the-badge&logo=google"/></a> <a href="https://mailchi.mp/kotlinweekly/kotlin-weekly-316"><img src="https://img.shields.io/badge/kotlinweekly.net-Issue%20%23316-%237a4fbb?style=for-the-badge"/></a></td>
+  
+  <tr>
+    <td><a href="https://proandroiddev.com/conditionals-an-easier-design-decision-but-a-poor-choice-16a8d65c9de1">Conditionals, An Easier Design Decision But A Poor Choice</a></td>
+    <td><a href="https://proandroiddev.com/conditionals-an-easier-design-decision-but-a-poor-choice-16a8d65c9de1"><img src="https://img.shields.io/badge/-ProAndroidDev-%23000000?logo=medium&style=for-the-badge"/></a></td>
+    <td><a href="https://devlibrary.withgoogle.com/authors/abhisheksaxena"><img src="https://img.shields.io/badge/-Dev%20Library-blue?style=for-the-badge&logo=google"/></a> <a href="https://androidweekly.net/issues/issue-499"><img src="https://img.shields.io/badge/androidweekly.net-Issue%20%23499-%23129bc9?style=for-the-badge"/></a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://5abhisheksaxena.medium.com/easily-manage-image-type-with-sealed-classes-4e361c6f4db9">Easily manage image type with sealed classes</a></td>
+    <td><a href="https://5abhisheksaxena.medium.com/easily-manage-image-type-with-sealed-classes-4e361c6f4db9"><img src="https://img.shields.io/badge/gitconnected-Level Up Coding-%23000000?logo=medium&style=for-the-badge"/></a></td>
+    <td>-</td>
+  </tr>
+</table>
 </div>
 
 <h1 align="center">⚙️ GitHub Analytics</h1>
