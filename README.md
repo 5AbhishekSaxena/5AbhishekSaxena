@@ -45,6 +45,11 @@ I am a Mobile Full Stack Developer with 2 years of experience with expertise in 
     <th>Featured In</th>
   </tr>
   <tr>
+    <td><a href="https://proandroiddev.com/builder-design-pattern-in-kotlin-c52e41bd6020">Builder Design Pattern In Kotlin</a></td>
+    <td><a href="https://proandroiddev.com/builder-design-pattern-in-kotlin-c52e41bd6020"><img src="https://img.shields.io/badge/-ProAndroidDev-%23000000?logo=medium&style=for-the-badge"/></a></td>
+    <td><a href="https://devlibrary.withgoogle.com/authors/abhisheksaxena"><img src="https://img.shields.io/badge/-Dev%20Library-blue?style=for-the-badge&logo=google"/></a><a href="https://androidweekly.net/issues/issue-575"><img src="https://img.shields.io/badge/androidweekly.net-Issue%20%23575-%23129bc9?style=for-the-badge"/></a> <a href="https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=a5a3a49c56"><img src="https://img.shields.io/badge/kotlinweekly.net-Issue%20%23360-%237a4fbb?style=for-the-badge"/></a></td>
+  </tr>
+  <tr>
     <td><a href="https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe">Jetpack Compose Migration: Best Practices and Strategies</a></td>
     <td><a href="https://proandroiddev.com/migration-to-jetpack-compose-for-a-legacy-application-3bf256df2ebe"><img src="https://img.shields.io/badge/-ProAndroidDev-%23000000?logo=medium&style=for-the-badge"/></a></td>
     <td><a href="https://devlibrary.withgoogle.com/authors/abhisheksaxena"><img src="https://img.shields.io/badge/-Dev%20Library-blue?style=for-the-badge&logo=google"/></a> <a href="https://developers.googleblog.com/2023/02/google-dev-library-letters-18th-edition.html"><img src="https://img.shields.io/badge/Dev%20Library%20Letters-Issue%20%2318-blue?style=for-the-badge&logo=google"/></a> <a href="https://androidweekly.net/issues/issue-551"><img src="https://img.shields.io/badge/androidweekly.net-Issue%20%23551-%23129bc9?style=for-the-badge"/></a> <a href="https://us12.campaign-archive.com/?u=f39692e245b94f7fb693b6d82&id=1cea211a6d"><img src="https://img.shields.io/badge/kotlinweekly.net-Issue%20%23336-%237a4fbb?style=for-the-badge"/></a></td>
