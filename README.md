@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/19958130/208198483-6574a7f2-e3df-410d-a8f1-49ae156f8e73.png">
-
 <h1 align="center">👋 Hi there I'm Abhishek Saxena</h1>
 
 <p align="center">
