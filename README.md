@@ -7,6 +7,7 @@ I am a Mobile Full Stack Developer with 4 years of experience with expertise in 
 <h1 align="center">🛠 Frameworks</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge"/>
 </p>
@@ -16,6 +17,7 @@ I am a Mobile Full Stack Developer with 4 years of experience with expertise in 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=for-the-badge" alt="Jetpack Compose Badge">
 <img src="https://img.shields.io/badge/OpenJDK-FFF?logo=openjdk&logoColor=000&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
